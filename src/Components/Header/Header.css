@@ -1,0 +1,29 @@
+.Header img {
+    position: relative;
+    width: 80px;
+    left: 15px;
+    top: 15px;
+    border-radius: 10px;
+}
+
+.Header span {
+    position: relative;
+    left: 45px;
+    size: 15px;
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    top: 3px;
+    padding: 25px;
+    font-family: serif
+}
+
+.Header span:hover {
+    color: red;
+}
+
+@media only screen and (max-width:1000px) {
+    .Header {
+        width: 1000px;
+    }
+}

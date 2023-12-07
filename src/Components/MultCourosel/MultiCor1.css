@@ -1,0 +1,18 @@
+.container img {
+    width: 325px;
+    border: 1px solid rgb(60, 57, 57);
+    border-radius: 12px;
+}
+
+.carousel_container {
+    position: relative;
+    background-color: black;
+}
+
+.heading1 {
+    position: relative;
+    left: 25px;
+    letter-spacing: 1px;
+    font-family: serif;
+    font-weight: bolder;
+}

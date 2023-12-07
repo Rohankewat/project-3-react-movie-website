@@ -1,0 +1,29 @@
+.trending_image_icon img {
+    position: relative;
+    width: 320px;
+    border: 1px solid rgb(66, 60, 60);
+    border-radius: 15px;
+}
+
+.trending_image_icon {
+    position: relative;
+    height: 600px;
+    left: 3px;
+}
+
+
+.trends1 h3 {
+    position: relative;
+    left: 25px;
+    font-family: serif;
+    letter-spacing: 1px;
+    font-size: 24px;
+}
+
+@media only screen and (max-width:1000px) {
+    .trend_main_container {
+        position: relative;
+        width: 1000px;
+        left: 2px;
+    }
+}

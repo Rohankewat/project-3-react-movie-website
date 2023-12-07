@@ -1,0 +1,19 @@
+.MovieList_Heading {
+    position: relative;
+    left: 25px;
+    letter-spacing: 1px;
+    font-family: serif;
+    font-weight: bolder;
+}
+
+
+@media only screen and (max-width:1000px) {
+    .MovieList_Heading {
+        position: relative;
+        left: 25px;
+        letter-spacing: 1px;
+        font-family: serif;
+        font-weight: bolder;
+    }
+
+}
